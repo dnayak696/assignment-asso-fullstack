@@ -2,12 +2,12 @@
 
 NODE VERSION - 16.17.0
  
- ### CLIENT
+ ### CLIENT ( React )
  `npm install`
 
  `npm run start`
 
-### SERVER
+### SERVER ( Node )
 
 `npm install`
 
